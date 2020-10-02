@@ -1,0 +1,8 @@
+.contacts_item a{
+    color: white;
+    text-decoration: none;
+}
+
+.contacts_item a.active{
+    color: gold;
+}

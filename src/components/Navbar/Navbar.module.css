@@ -1,0 +1,16 @@
+.nav {
+  grid-area: n;
+  background-color: coral;
+  padding: 20px;
+  font-size: 19px;
+}
+
+.item a {
+  color: white;
+  margin-left: 40px;
+  text-decoration: none; /* Отменяем подчеркивание у ссылки */
+}
+
+.item a.active {
+  color: gold;
+}
